@@ -1,0 +1,1 @@
+This is site will host various 35mm film pictures taken by me it will not be an eccomernce site more of just a way to refresh my skills the intent is to have this complete within one week of starting, July 6th. Readme will be updated intermittently through out the week.  
