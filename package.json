@@ -1,0 +1,24 @@
+{
+  "name": "filmpage",
+  "version": "1.0.0",
+  "description": "This is site will host various 35mm film pictures taken by me it will not be an eccomernce site more of just a way to refresh my skills the intent is to have this complete within one week of starting, July 6th. Readme will be updated intermittently through out the week.",
+  "main": "server.js",
+  "dependencies": {
+    "npm": "^6.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vw-Shane/filmPage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vw-Shane/filmPage/issues"
+  },
+  "homepage": "https://github.com/Vw-Shane/filmPage#readme"
+}
